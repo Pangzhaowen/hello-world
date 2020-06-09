@@ -1,2 +1,2 @@
 # hello-world
-Learning and communication
+Learning and communication.
